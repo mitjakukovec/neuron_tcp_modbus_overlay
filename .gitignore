@@ -1,0 +1,15 @@
+/backup
+*~
+*.swp
+*.o
+*.la
+*.lo
+*.log
+*.trs
+.travis.yml
+.dir-locals.el
+.deps
+.libs
+neuronspi
+libmodbus-master/tests/
+libmodbus-master/m4/
